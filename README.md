@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Pathaktechy - aka - Aditya Pathak 
-- 👀 I’m interested in - Deep Learning / Multimodel AI / Quantum Computing .
-- 🌱 I’m currently learning - Deep Learning and working on real time projects . 
-- 💞️ I’m looking to collaborate on - Multimodel AI / CV / NLP 
-- 📫 How to reach me - apathak.tech@gmai.com
+- 👀 I’m interested in - ./ Cubersecurity / Pentration Testing .
+- 🌱 I’m currently learning - Exploits and certification. 
+- 💞️ I’m looking to collaborate on - Network Pentration 
+- 📫 How to reach me - apathak.tech@gmail.com
+- >> The Harware Device I like the most - Flipper Zero 
 
 
