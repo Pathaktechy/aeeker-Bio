@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pathaktechy - aka - Aditya Pathak 
+- 👋 Hi, I’m @aeeker - aka - Aditya Pathak 
 - 👀 I’m interested in - ./ Cubersecurity / Pentration Testing .
 - 🌱 I’m currently learning - Exploits and certification. 
 - 💞️ I’m looking to collaborate on - Network Pentration 
